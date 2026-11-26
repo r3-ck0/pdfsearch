@@ -1,0 +1,4 @@
+pypdf>=5
+numpy>=1.24
+rapidfuzz>=3  # optional, faster fuzzy query correction
+cryptography>=3  # required by pypdf for AES-encrypted PDFs
